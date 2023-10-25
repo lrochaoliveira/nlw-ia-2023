@@ -505,7 +505,7 @@ packages:
       '@vue/shared': 3.3.4
       estree-walker: 2.0.2
       magic-string: 0.30.3
-      postcss: 8.4.29
+      postcss: >=8.4.31
       source-map-js: 1.0.2
     dev: false
 
@@ -1262,7 +1262,7 @@ packages:
       thread-stream: 2.4.0
     dev: false
 
-  /postcss@8.4.29:
+  /postcss@>=8.4.31:
     resolution: {integrity: sha512-cbI+jaqIeu/VGqXEarWkRCCffhjgXc0qjBtXpqJhTBohMUjUQnbBr0xqX3vEKudc4iviTewcJo5ajcec5+wdJw==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
